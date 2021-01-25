@@ -1,0 +1,67 @@
+body {
+ background-image: url(background.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ padding: 20px;
+}
+
+#contenitore {
+  background: rgba(0, 0, 0, 0.5);
+  width: 700px;
+  padding: 50px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+header > img {
+  height: 80px;
+  margin: auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  color: #00e600;
+  margin: 5px;
+  font-family: cursive;
+}
+
+nav {
+  background-color: #00e600;
+  margin: auto;
+  padding: 10px;
+}
+
+nav > div {
+  text-align: center;
+}
+
+h4 {
+  margin-top: 25px;
+  margin-bottom: 1px;
+}
+
+.infomonopattino {
+  color: white;
+}
+
+.barra {
+  height: 20px;
+  border-radius: 3px;;
+}
+
+#barrauno {
+  width: 95%;
+  background-color: #00FF00;
+}
+
+#barradue {
+  width: 40%;
+  background-color: gold;
+}
+
+#barratre {
+  width: 1%;
+  background-color: red;
+}
